@@ -6,3 +6,13 @@
 
 <hr>
 
+# Link para testar o projeto
+
+https://gustamoreira.github.io/Clima/
+
+<hr>
+
+# Tecnologias utilizadas durante o curso
+* JavaScript
+* HTML
+* CSS
