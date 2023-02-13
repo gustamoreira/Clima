@@ -1,4 +1,4 @@
-## ClimaTempo | Descubra em tempo real o clima de qualquer lugar do mundo.
+# ClimaTempo | Descubra em tempo real o clima de qualquer lugar do mundo.
 
 <hr>
 
@@ -6,13 +6,13 @@
 
 <hr>
 
-# Link para testar o projeto
+## Link para testar o projeto
 
 https://gustamoreira.github.io/Clima/
 
 <hr>
 
-# Tecnologias utilizadas durante o curso
+## Tecnologias utilizadas durante o projeto
 * JavaScript
 * HTML
 * CSS
